@@ -1,7 +1,15 @@
 {
+<<<<<<< HEAD
     "folders": [
         {
             "path": "."
         }
     ]
+=======
+	"folders": [
+		{
+			"path": "."
+		}
+	]
+>>>>>>> refs/remotes/origin/feature/Details-screen
 }
